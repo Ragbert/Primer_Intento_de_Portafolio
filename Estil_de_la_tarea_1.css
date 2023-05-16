@@ -1,0 +1,53 @@
+body{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25;
+    background: black;
+    
+}
+
+.facebook {
+    padding: 4px 25px;
+    background:#3b5998;
+    border: 1px solid white; 
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+}
+
+.instagram{
+    padding: 4px 25px;
+    background: radial-gradient(circle at 33% 100%,#fed373 4%,#f15245 30%,#d92e7f 62%,#515ecf);
+    border: 1px solid white;
+    color: whitesmoke;
+    border-radius: 4px;
+    position: relative;
+    text-decoration:none;
+}
+
+.twitter{
+    padding: 4px 25px;
+    background:  #00acee;
+    border: 1px solid white;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+}
+
+.tiktok{
+    padding: 4px 25px;
+    background: #000000;
+    border: 1px solid white;
+    color: white;
+    border-radius: 4px;
+    text-decoration:none;
+}
+
+.preferencia{
+    padding: 4px 25px;
+    background: #c4302b;
+    border: 1px solid white;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+}
